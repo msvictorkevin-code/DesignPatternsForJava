@@ -4,3 +4,4 @@ Patrones en Java con IntelliJ IDEA
 + Patron Factory
 + Patron Builder
 + Patron Prototype
++ demoPatronSingleton
