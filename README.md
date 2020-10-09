@@ -5,3 +5,5 @@ Patrones en Java con IntelliJ IDEA
 + Patron Builder
 + Patron Prototype
 + demoPatronSingleton
++ demoPatronAdapter
++ demoPatronBridge
